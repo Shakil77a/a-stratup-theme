@@ -1,0 +1,2 @@
+# a stratup theme
+ stratup
